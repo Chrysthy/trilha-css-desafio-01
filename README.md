@@ -32,7 +32,7 @@
 
 ## 💻 Figma
 
-[Figma](https://www.figma.com/file/3PiokoJj9IhGDnNiWAJbz7/DIO---Desafio-01?node-id=2%3A6) ccontaining the challenge prototype for your reference.
+[Figma](https://www.figma.com/file/3PiokoJj9IhGDnNiWAJbz7/DIO---Desafio-01?node-id=2%3A6) containing the challenge prototype for your reference.
 
 <br>
 
