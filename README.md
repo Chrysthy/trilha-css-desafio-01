@@ -1,5 +1,5 @@
 
-<h1 align="center"> Desafio 01: Criando sua primeira Landing Page com HTML e CSS</h1> 
+<h1 align="center"> Desafio 01: Criando uma Landing Page com HTML e CSS</h1> 
 
 <p align="center">  
   <a href="#-screenshots">Screenshots</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
