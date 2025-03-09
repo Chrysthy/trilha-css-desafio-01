@@ -1,7 +1,7 @@
 @import url('reset.css');
 
 body {
-    background-color: black;
+    background-color: #000;
 }
 
 h2 {
@@ -14,7 +14,7 @@ h2 {
 }
 
 p {
-    color: white;
+    color: #fff;
 }
 
 section {
@@ -31,7 +31,7 @@ section {
 }
 
 .banner .banner-content {
-    color: white;
+    color: #fff;
     width: 600px;
     margin: auto;
     text-align: center;
@@ -84,7 +84,7 @@ section {
 
 .banner .banner-content button:hover {
     background-color: #33A8DB;
-    color: white;
+    color: #fff;
 
     cursor: pointer;
 }
@@ -99,7 +99,7 @@ section {
 }
 
 #course-content .modules-list .module {
-    color: white;
+    color: #fff;
     width: 530px;
     margin: 0 auto 24px;
     border: 1px solid #33A8DB;
@@ -111,7 +111,7 @@ section {
 
 #course-content .modules-list .module:hover {
     background-color: #33A8DB;
-    color: #ffffff;
+    color: #fff;
 
     cursor: pointer;
 }
